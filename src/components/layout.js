@@ -66,7 +66,6 @@ const Layout = ({ children }) => {
         css={css`
           width: 100vw;
           min-height: 100vh;
-          border: 3px solid black;
           overflow-x: hidden;
         `}
       >
