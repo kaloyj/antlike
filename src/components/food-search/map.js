@@ -1,5 +1,4 @@
 import React from "react"
-
 import { css } from "@emotion/core"
 
 const Map = () => {
@@ -11,7 +10,7 @@ const Map = () => {
         border: 3px solid blue;
       `}
     >
-      map bitch
+      map hoe
     </div>
   )
 }
