@@ -2,6 +2,7 @@ import React from "react"
 import { css } from "@emotion/core"
 import Layout, { COLOR_SCHEME } from "../components/layout"
 import SEO from "../components/seo"
+import FoodSearch from "../components/food-search"
 import Ant from "./assets/ant.svg"
 
 const IndexPage = () => (
@@ -183,6 +184,7 @@ const IndexPage = () => (
         </div>
       </div>
     </div>
+    <FoodSearch></FoodSearch>
   </Layout>
 )
 
